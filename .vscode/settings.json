@@ -1,4 +1,7 @@
 {
-    "editor.fontSize": 16,
-    "editor.fontFamily": "jetbrains mono"
+    "editor.fontSize": 15,
+    "editor.fontFamily": "'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontWeight": "bold",
+    "editor.fontVariations": false,
+    "editor.fontLigatures": false
 }
